@@ -1,5 +1,11 @@
 ## Mesa 3-D Graphics Library v21.0.3
 
+supplier: The Mesa 3D Graphics Project
+component: Mesa 3-D Headers
+version: v21.0.3
+modified: subset
+platforms: linux, solaris
+
 ### Mesa License
 
 ```

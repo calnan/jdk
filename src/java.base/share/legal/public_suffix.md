@@ -1,5 +1,11 @@
 ## Mozilla Public Suffix List
 
+supplier: Mozilla
+component: Public Suffix List
+version: 1cbd6e7
+modified: intact
+platforms: all
+
 ### Public Suffix Notice
 ```
 You are receiving a copy of the Mozilla Public Suffix List in the following

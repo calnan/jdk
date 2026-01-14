@@ -1,5 +1,11 @@
 ## The FreeType Project: Freetype v2.13.3
 
+supplier: The FreeType Project
+component: Freetype
+version: v2.13.3
+modified: subset
+configurations: linux, windows
+
 
 ### FreeType Notice
 

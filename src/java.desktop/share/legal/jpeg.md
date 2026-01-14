@@ -1,5 +1,11 @@
 ## Independent JPEG Group: JPEG release 6b
 
+supplier: Thomas G. Lane
+component: libjpeg
+version: 6b-2
+modified: fork
+platforms: all
+
 ### JPEG License
 
 ```

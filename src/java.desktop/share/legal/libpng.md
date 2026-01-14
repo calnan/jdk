@@ -1,5 +1,11 @@
 ## libpng v1.6.51
 
+supplier: The PNG Reference Library Authors
+component: libpng
+version: v1.6.51
+modified: fork
+platforms: all
+
 ### libpng License
 <pre>
 

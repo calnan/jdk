@@ -1,5 +1,12 @@
 ## GIFLIB v5.2.2
 
+supplier: Eric S. Raymond
+component: GIFLIB
+version: v5.2.2
+modified: subset
+platforms: all
+
+
 ### GIFLIB License
 ```
 

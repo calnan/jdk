@@ -1,5 +1,11 @@
 ## Harfbuzz 11.2.0
 
+supplier: HarfBuzz Community Project 
+component: Harfbuzz
+version: 11.2.0
+modified: subset
+platforms: all
+
 ### Harfbuzz License
 
 <pre>

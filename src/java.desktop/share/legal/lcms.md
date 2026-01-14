@@ -1,5 +1,11 @@
 ## Little Color Management System (LCMS) v2.17
 
+supplier: Marti Maria Saguer
+component: LCMS
+version: v2.17
+modified: fork
+platforms: all
+
 ### LCMS License
 <pre>
 
